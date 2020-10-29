@@ -1,2 +1,2 @@
 global edit
-global edit
+3 global edit
